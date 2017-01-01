@@ -1,6 +1,6 @@
 {
   "name": "watson-speech-to-text-utils",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "IBM Watson Speech to Text CLI",
   "main": "index.js",
   "engines": {
