@@ -1,4 +1,5 @@
 #!/usr/bin/env node --harmony
+
 const pkg = require('./package.json');
 require('colors');
 
