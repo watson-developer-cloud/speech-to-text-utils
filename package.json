@@ -1,0 +1,48 @@
+{
+  "name": "watson-speech-to-text-utils",
+  "version": "0.0.1",
+  "description": "IBM Watson Speech to Text CLI",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.0",
+    "npm": ">=3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/watson-developer-cloud/speech-to-text-utils.git"
+  },
+  "author": "IBM Corp.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/watson-developer-cloud/speech-to-text-utils/issues"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "clui": "^0.3.1",
+    "colors": "^1.1.2",
+    "columnify": "^1.5.4",
+    "commander": "^2.9.0",
+    "dotenv": "^2.0.0",
+    "inquirer": "^2.0.0",
+    "object.pick": "^1.2.0",
+    "preferences": "^0.2.1",
+    "watson-developer-cloud": "^2.14.4"
+  },
+  "scripts": {
+    "test": "npm run lint && npm run mocha",
+    "mocha": "istanbul cover ./node_modules/mocha/bin/_mocha test",
+    "lint": "eslint .",
+    "autofix": "eslint --fix .",
+    "codecov": "npm run test && (codecov || true)"
+  },
+  "devDependencies": {
+    "codecov": "^1.0.1",
+    "eslint": "^3.11.1",
+    "istanbul": "^0.4.2",
+    "mocha": "^3.1.0",
+    "should": "^11.1.2"
+  },
+  "bin": {
+    "watson-speech-to-text-utils": "lib/index.js"
+  }
+}

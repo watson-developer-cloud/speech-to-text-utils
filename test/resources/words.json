@@ -1,0 +1,17 @@
+{
+  "words": [{
+    "word": "IEE",
+    "sounds_like": [
+      "IEEE",
+      "I triple E"
+    ],
+    "display_as": "I triple e"
+  },{
+    "word": "Batman",
+    "sounds_like": [
+      "wuatman",
+      "gutman"
+    ],
+    "display_as": "B4tM4n"
+  }]
+}

@@ -1,0 +1,640 @@
+can I manipulate the
+help
+help me
+How are you going to help me
+how can you help me
+need help
+tell me what things you can do
+tell me what you can do
+What are you
+what are you capable of
+what are your capabilities Watson
+what can I do
+What can I say
+what can you do
+what can you do for me
+what can you help me with
+what do you know
+what else
+what things can you do
+adieu
+adios
+au revoir
+bye
+bye bye
+bye now
+cya
+farewell
+go
+goodbye
+good bye
+good day
+good night
+gotta go
+gotta run
+gtg
+I'm leaving
+later
+laters
+leave
+logging off
+my time is up
+ok bye
+out of time
+over and out
+run
+see ya
+see ya later
+see ya soon
+see you
+should be going
+should go
+signing off
+signing out
+so long
+soon
+thanks watson
+thank you
+then bye
+toodles
+aloha
+bad
+bonjour
+buenos dias
+ciao
+feeling bit low
+g'day
+good
+good day
+good evening
+good how are you
+good morning
+greetings
+Hello
+Hello, how are you
+Hello Watson
+hey
+heya
+hey there
+hi
+hi how are u
+hi there
+Hi watson
+hiya
+Hola
+hola como estas
+How are you doing
+howdy
+I am not feeling good
+I'm feeling good thanks
+Its not that good
+namaste
+What's up
+yello
+yo
+Amenities
+Are there any around here
+can you find a good place to
+can you find me a
+can you find the nearest for me
+can you locate a
+drive to the
+find a
+Find best option
+find me a
+gas
+get me directions
+go to a
+go to the closest
+I am hungry
+I'd like to get something to eat
+i'm hungry
+im hungry I want to eat something
+I need some coffee
+I need to stop for
+Information on locations near me
+I want to stop for some food
+let's get some grub
+locate ammenity
+Navigation
+nearby restaurant
+order a pizza
+pizza
+restaurant
+restaurants
+restroom
+show me the best path
+Stop for food/coffee
+take me to
+what is closeby
+what is near
+what is nearby
+what is near me
+what's closeby
+what's close to me
+what's near
+what's nearby Watson
+where are the closest restrooms
+where can I drink
+where can I eat pizza
+where can I have pizza
+where is a
+where is ATM
+where is the
+where's the nearest exit
+any
+anything
+doesn't matter
+no preference
+whatever
+you decide
+your favorite
+aho
+asdasdasda
+asdasidjiwe
+book a flight for NY on sunday
+carrot
+cats are my favorite animal
+cold
+cool
+culd
+deploy airbags
+dfddfg
+don't you know any jokes
+do you hate
+Do you like
+do you love
+fdsafsaHi watson
+funny
+go fast
+go slow
+hot
+how close is
+how far is
+how far is the moon
+how far to
+how many licks does it take to get to the center of a tootsie roll
+how much do you weigh
+how old are you
+how tall are you
+huhu
+I'd like to have dinner with you
+I enjoy petting cats
+I love dolphins
+I love spicy food
+I need a new wheelchair
+I need to shut it down
+it's too dark
+I want jokes
+I want to date you
+I want to eat tacos everyday
+I want to see how this demo works
+I want to talk
+know any jokes
+lgiths
+lgits
+make me a sandwich
+near
+nope
+Nuts
+ok watson, why should I use you
+open door
+please open the sunroof
+poop
+Post-it notes taste terrible.
+repair my car
+roll down windows
+shutdown
+shut down
+sup
+system error, unable to lonin
+tell me a joke
+tell me joke
+tell me jokes
+tell me some jokes
+tell me your favorite color
+tell me your favorite foods
+test
+testing om
+This is awesome
+This is good
+Turn left
+what is my speed
+what is your name
+what kind of food do you eat
+What's the speed
+whats the square root of 70
+what's the time
+what's up
+what's your
+what's your favorite
+whats your favorite color
+whats your favorite movie
+what's your name
+whats your name
+what time is it
+what types of food do you like
+when will it be funny
+Where are we
+where is the poop deck on this ship
+where should I turn
+which color is best for wedding
+why
+why is the sky blue
+yeah
+yes
+Yolo
+you are funny
+You're asking me too much
+bluetooth
+Can I play music through bluetooth from my phone
+change bulb
+changing gears
+changing the light bulb
+checking the engine oil
+coolant level
+fuel tank flap
+how can I change oil
+how can I connect the phone
+how can I find current level of oil
+how can I lock the car
+how can I replace light bulb
+how do I adjust exterior mirrors
+how do I adjust head restraint
+how do I adjust the cruise control speed
+how do I adjust the mirror
+how do I adjust the mirror inside
+how do I adjust the rear view mirror
+how do I adjust the vehicle distance
+how do I arm the alarm
+how do I browse the tracks on the iPod
+how do I cancel cruise control
+how do I change oil
+how do I change the headlight bulbs
+how do I change the lights bulb
+how do I change the oil
+how do I clean the vehicle
+how do I close the window
+how do I connect my phone
+how do I connect USB device
+how do I control a phone
+how do I disable the vehicle stability control
+how do I fill in the engine oil
+how do I find the fuel consumption
+how do I lock the window
+how do I lock the windows
+how do I lock the windows to prevent children from opening
+how do I open the doors
+how do I open the fuel filler flap
+how do I open the power windows
+how do I open the rear window
+how do I open the side window
+how do I open the tank fuel
+how do I open the window
+How do I pair my android phone to the radio
+How do I pair my iPhone to the radio
+how do I pause song in my iPod
+how do I play an iPod
+how do I play the track on the iPod
+How do I program my radio stations
+how do I refill the engine oil
+how do I resume cruise control
+how do I resume the cruise speed
+how do I resume the vehicle speed
+how do I save my favourite radio station
+how do I save the seat position
+how do I scroll the screen
+how do I select a desired track on the iPod
+how do I select the song on the iPod
+how do I set the adaptive cruise control speed
+how do I set the cruise speed
+how do I set the vehicle speed
+how do I switch on the cruise control
+how do I tune the radio
+how do I turn off ambient lights
+how do I turn off the alarm
+how do I turn off the cruise control
+how do I turn off the high beams
+how do I turn off the traction control
+how do I turn off voice guidance
+how do I turn on adaptive cruise control
+how do I turn on ambient lights
+how do I turn on cruise control
+how do I turn on front seat heating
+how do I turn on headlamps
+how do I turn on high beams
+how do I turn on the alarm
+how do I turn on the cruise control
+how do I turn on the fog lamps
+How do I turn on the high-beams
+how do I turn on the pre collision system
+how do I turn on the traction control
+how do I turn on traffic info
+how do I turn on windscreen washer
+how do I unlock the windows
+How do I use cruise control
+how do I use the blind spot monitor
+how do I use the electric power steering
+how do I use the iPod
+how do I use the pre collision system
+how do I use the traction control
+how do I wash the car
+How frequently should I change the oil
+how often should I change the oil
+how to adjust the vehicle to vehicle distance
+how to change engine oil
+how to change oil
+how to change the oil
+How to connect bluetooth
+how to replace light bulbs
+how to switch on the fog lights
+how to turn on warning lights
+Is there a lane change assist feature
+Is there an automatic parallel park feature
+Is there a warning light for low washer fluid
+light bulbs replacement
+opening the windows
+operating the radio
+parking brake
+refilling the engine coolant
+show me how to change the light bulbs
+switch on fog light
+turn off traffic info
+what are the crash ratings
+what is the pre collision system
+what is the traction control
+what is the vehicle stability control
+what kind of fuel does the car require
+what kind of fuel should I use
+What PSI do I inflate the spare tire to
+what's the tires pressure
+what type of oil do I need
+where are fog lights
+where are the lights
+where can I start air conditioning
+Where is the fuse box
+Where is the fuse box located
+answer the phone
+call dad
+call on the telephone
+dial Home
+do you have a phone
+I'd like to call my mom
+I'd like to make a call
+I want to text my father
+I would like to call someone on the phone
+make a phone call
+smartphone
+text mom
+text someone
+use the phone
+What's your phone number
+are there any accidents ahead
+Are there any jams
+Estimated time left
+estimated time of arrival
+ETA
+give me traffic updates
+how far
+how is traffic looking this evening
+how long it would take me get home
+how long until I arrive
+How long will it take to get there
+How's the traffic
+how's the traffic today
+how's traffic
+hows traffic
+hows traffic looking
+is the highway busy
+is there an accident ahead
+jam
+traffic conditions
+traffic conditions on 85
+whats my ETA
+what's the Estimated Time of Arrival
+whats the traffic like on 101
+when do we arrive
+when rain there is lot of trafic jams
+when will we arrive
+decrease the
+down
+I need you to turn my down
+lessen the
+lower the
+please turn the down
+reduce the
+set to low
+the needs to be turned down
+turn down the
+turn it down
+turn my down
+turn on low
+turn the down
+turn the down for me
+turn this down
+cancel
+can I turn off the
+close
+I don't need the anymore
+I need my off
+I want the off
+no more
+off
+power off
+shut
+shut off
+stop
+stop the
+switch it off
+switch off
+switch off please
+switch off the
+turn off
+Turn off my
+turn off my please
+turn off the for me
+turn off the please
+turn the off
+will you turn my off please
+can  be turned on
+can I have some
+can you turn on the
+find me a good station
+I want the on
+I want to listen to
+I want to turn on
+music
+on
+on now
+play
+play me some
+power on
+power on the
+start
+start up
+switch on
+switch on the
+turn my on
+turn my on for me
+turn on
+turn on my
+turn on my lights
+Turn on the
+turn on the light
+turn on the please
+turn the on
+watson please turn my on
+amplify the
+boost
+can you increase the
+can you turn my up
+can you turn the up
+enhance the
+increase the
+increase the for me
+intensify
+I want more
+magnify the
+play the louder
+please turn my up
+please turn the up
+please turn up the
+set to high
+step up the
+turn on high
+turn the up
+turn the up now
+turn up the
+turn up this
+check the weather
+check the wheather
+check weather
+Does the weather get worse
+do I need a jacket
+how cold
+how cold is it out
+how cold is it outside
+how hot
+how hot is it outside
+how long will it rain
+how warm is it
+is it dark outside
+is it raining
+It's cold here
+it's hot
+tell me the weather
+what is the weather like
+what's the weather
+whats the weather like right now
+whats the weather outside
+When will the rain stop
+when will the sun come out
+gas
+place
+restaurant
+restroom
+AC
+fan
+heater
+lights
+music
+volume
+wipers
+burgers
+pasta
+seafood
+tacos
+african
+american
+argentine
+asian
+austrian
+basque
+belgian
+breakfast
+british
+cajun
+californian
+canadian
+caribbean
+chinese
+christmas
+comfort
+creole
+cuban
+danish
+english
+european
+french
+galician
+german
+gluten free
+greek
+halal
+hawaiian
+indian
+irish
+israeli
+italian
+jamaican
+japanese
+korean
+kosher
+latin
+malaysian
+mediterranean
+mexican
+middle eastern
+moroccan
+paleo
+persian
+peruvian
+pescatarian
+portuguese
+russian
+scandinavian
+scottish
+sichuan
+soul
+southern
+southwestern
+spanish
+texan
+tex mex
+thai
+turkish
+tuscan
+vegan
+vegetarian
+vietnamese
+classical
+jazz
+pop
+rock
+Alternative
+Blues
+Childrens
+Comedy
+Country
+Dance
+Electronic
+Folk
+Hip Hop
+Holiday
+Instrumental
+J-Pop
+Latin
+New Age
+R&B
+Reggae
+Religious
+Soundtrack
+Vocal
+World
+fifth
+first
+fourth
+second
+third
+call
+text
