@@ -5,7 +5,7 @@ Speech to text CLI that helps you manage speech customizations.
 
 ## Getting Started
 
-Make sure you read the documentation for [Speech to Text](docs) before using this library.
+Make sure you read the documentation for [Speech to Text][docs] before using this library.
 
 ```bash
 npm install watson-speech-to-text-utils -g
@@ -44,7 +44,7 @@ Options:
 
 ### Getting Started
 
-All the commands need an Speech to Text `username` and `password`. Take a look at the [Getting Credentials](getting-credentials) page to learn how to get credentials for the Watson services.
+All the commands need an Speech to Text `username` and `password`. Take a look at the [Getting Credentials][getting-credentials] page to learn how to get credentials for the Watson services.
 
 
 ### How to get the `workspace.json` file
