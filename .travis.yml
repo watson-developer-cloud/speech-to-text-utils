@@ -10,3 +10,4 @@ cache:
   - node_modules
 notifications:
   email: false
+before_deploy: npm install -g
