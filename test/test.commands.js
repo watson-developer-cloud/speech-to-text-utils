@@ -18,7 +18,7 @@ const Commands = require('../lib/commands');
 
 require('should');
 
-if (process.env.SPEECH_TO_TEXT_USERNAME && process.env.SPEECH_TO_TEXT_PASSWORD && process.env.CUSTOMIZATION_ID) {
+if (process.env.SPEECH_TO_TEXT_USERNAME && process.env.SPEECH_TO_TEXT_PASSWORD) {
   const cmd = new Commands({
     username: process.env.SPEECH_TO_TEXT_USERNAME,
     password: process.env.SPEECH_TO_TEXT_PASSWORD,
@@ -45,24 +45,6 @@ if (process.env.SPEECH_TO_TEXT_USERNAME && process.env.SPEECH_TO_TEXT_PASSWORD &
 
     it('listCustomizations()', () => cmd.listCustomizations());
 
-    it('getCustomization()', () =>
-      cmd.getCustomization({
-        customization_id: process.env.CUSTOMIZATION_ID,
-      })
-    );
-
-    it('listCustomizationWords()', () =>
-      cmd.listCustomizationWords({
-        customization_id: process.env.CUSTOMIZATION_ID,
-      })
-    );
-
-    it('listCorpora()', () =>
-      cmd.listCorpora({
-        customization_id: process.env.CUSTOMIZATION_ID,
-      })
-    );
-
     it('createAndTrainCustomization()', function() {
       this.timeout(200000);
       return cmd.createAndTrainCustomization({
@@ -88,24 +70,46 @@ if (process.env.SPEECH_TO_TEXT_USERNAME && process.env.SPEECH_TO_TEXT_PASSWORD &
       });
     });
 
-    it('addWord()', function()  {
-      this.timeout(60000);
-      return cmd.addWord({
-        customization_id: process.env.CUSTOMIZATION_ID,
-        word: 'IEEE',
-        display_as: 'IEEE',
-        sounds_like: 'IEEE,I triple three',
-      });
-    });
+    if(process.env.CUSTOMIZATION_ID){
+      it('getCustomization()', () =>
+        cmd.getCustomization({
+          customization_id: process.env.CUSTOMIZATION_ID,
+        })
+      );
 
-    it('addWords()', function() {
-      this.timeout(80000);
-      return cmd.addWords({
-        customization_id: process.env.CUSTOMIZATION_ID,
-        words: path.join(__dirname, './resources/words.json'),
-      });
-    });
+      it('listCustomizationWords()', () =>
+        cmd.listCustomizationWords({
+          customization_id: process.env.CUSTOMIZATION_ID,
+        })
+      );
 
+      it('listCorpora()', () =>
+        cmd.listCorpora({
+          customization_id: process.env.CUSTOMIZATION_ID,
+        })
+      );
+
+      it('addWord()', function()  {
+        this.timeout(60000);
+        return cmd.addWord({
+          customization_id: process.env.CUSTOMIZATION_ID,
+          word: 'IEEE',
+          display_as: 'IEEE',
+          sounds_like: 'IEEE,I triple three',
+        });
+      });
+
+      it('addWords()', function() {
+        this.timeout(80000);
+        return cmd.addWords({
+          customization_id: process.env.CUSTOMIZATION_ID,
+          words: path.join(__dirname, './resources/words.json'),
+        });
+      });
+    }
+    else {
+      console.log('Skipping integration tests that require CUSTOMIZATION_ID. CUSTOMIZATION_ID is null or empty');
+    }
   });
 }
 else {
