@@ -10,7 +10,7 @@ describe('CLI()', () => {
     (function(){
       const oldLog = console.log;
       console.log = function (message) {
-        message.should.containEql('is a command line utility, not a module include');
+        message.should.containEql(' is a command line tool, not a module include.');
         console.log = oldLog;
         done();
       };
@@ -54,12 +54,6 @@ describe('CLI()', () => {
   it('should print version when using --version', function(done) {
     exec(bin + ' --version', function (error, stdout) {
       stdout.should.containEql(pkg.version);
-      done();
-    });
-  });
-  it('should get a corpus from a workspace', function(done) {
-    exec(bin + ' corpus-from-workspace -w ./test/resources/workspace.json', function (error, stdout) {
-      stdout.should.containEql('Are there any around here');
       done();
     });
   });
