@@ -2,7 +2,6 @@ const exec = require('child_process').exec;
 const path = require('path');
 const pkg = require('../package.json');
 const bin = path.join(__dirname, '..', pkg.main);
-console.log(bin);
 
 require('should');
 
