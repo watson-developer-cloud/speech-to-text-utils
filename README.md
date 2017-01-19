@@ -24,6 +24,7 @@ Commands:
   set-credentials [options]                  Set Speech to Text username and password
   base-models-list [options]                 List all the base models
   customization-create-and-train [options]   Create a customization model using a Conversation workspace JSON file
+  customization-add-corpus [options]         Add a new corpus (i.e. workspace.json) to an existing customization
   customization-list [options]               List all the customization
   customization-train [options]              Train a customization
   customization-status [options]             Get customization status
