@@ -45,7 +45,7 @@ Options:
 
 ### Getting Started
 
-All the commands need an Speech to Text `username` and `password`. Take a look at the [Getting Credentials][getting-credentials] page to learn how to get credentials for the Watson services.
+All the commands need an Speech to Text `username` and `password`. Take a look at the [Service credentials for Watson services][getting-credentials] page to learn how to get credentials for the Watson services.
 
 
 ### How to get the `workspace.json` file
@@ -124,4 +124,4 @@ See [CONTRIBUTING](.github/CONTRIBUTING.md).
 Find more open source projects on the [IBM Github Page](http://ibm.github.io/)
 
 [docs]: http://www.ibm.com/watson/developercloud/doc/speech-to-text/index.shtml
-[getting-credentials]: http://www.ibm.com/watson/developercloud/doc/getting_started/gs-credentials.shtml#getCreds
+[getting-credentials]: https://www.ibm.com/watson/developercloud/doc/common/getting-started-credentials.html
